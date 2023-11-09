@@ -10,3 +10,9 @@
     height: 200px;
     border: 1px solid black;
 }
+
+.mole{
+    background-image: url('mole.png');
+    background-size: cover;
+    background-repeat: none;
+}
