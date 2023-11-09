@@ -1,0 +1,12 @@
+.grid{
+    height: 605px;
+    width: 606px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
